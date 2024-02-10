@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MOHIMEN"
+  DTS:DTSID="{48A2721F-488E-4A28-A4B7-9F76CAAE697E}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=MOHIMEN;User ID=;Initial Catalog=LearningOLTP;Provider=MSOLEDBSQL.1;Persist Security Info=False;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-LearningManagementSystemIntegration-{48A2721F-488E-4A28-A4B7-9F76CAAE697E}MOHIMEN;Initial File Name=;Server SPN=;Authentication=;Access Token=;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

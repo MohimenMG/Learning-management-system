@@ -1,0 +1,7 @@
+institution_department_id,institution_id,department_id,department_open_date,department_manager_id,department_manager_assignment_date
+1,1,1,2003-04-18,1,2003-04-18
+2,1,2,2003-04-18,2,2003-04-18
+3,2,1,2003-04-18,3,2003-04-18
+4,2,2,2003-04-18,4,2003-04-18
+5,3,3,2003-04-18,5,2003-04-18
+6,3,4,2003-04-18,6,2003-04-18

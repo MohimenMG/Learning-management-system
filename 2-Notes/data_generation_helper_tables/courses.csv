@@ -1,0 +1,59 @@
+institution_program_id,course_year_number,institution_id,program_name,program_id,course_name,course_id,program_course_id,semester_name
+1,1,1,Mechanical Engineering,1,Math 101,1,1,Fall
+1,1,1,Mechanical Engineering,1,Math 102,2,2,Fall
+1,1,1,Mechanical Engineering,1,Phys 101,5,5,Fall
+1,1,1,Mechanical Engineering,1,Phys 102,6,6,Fall
+1,2,1,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+1,2,1,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+1,2,1,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+1,2,1,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+1,2,1,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+1,2,1,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+2,1,1,Computer Science,2,Math 101,1,13,Fall
+2,1,1,Computer Science,2,Math 102,2,14,Fall
+2,1,1,Computer Science,2,Phys 101,5,17,Fall
+2,1,1,Computer Science,2,Phys 102,6,18,Fall
+2,2,1,Computer Science,2,Computer Science 1,14,19,Fall
+2,2,1,Computer Science,2,Computer Science 2,15,20,Fall
+2,2,1,Computer Science,2,Computer Science 3,16,21,Fall
+2,2,1,Computer Science,2,Computer Science 4,17,22,Fall
+2,2,1,Computer Science,2,Computer Science 5,18,23,Fall
+2,2,1,Computer Science,2,Computer Science 6,19,24,Fall
+3,1,2,Mechanical Engineering,1,Math 101,1,1,Fall
+3,1,2,Mechanical Engineering,1,Math 102,2,2,Fall
+3,1,2,Mechanical Engineering,1,Phys 101,5,5,Fall
+3,1,2,Mechanical Engineering,1,Phys 102,6,6,Fall
+3,2,2,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+3,2,2,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+3,2,2,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+3,2,2,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+3,2,2,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+3,2,2,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+4,1,2,Biomedical Engineering,3,Math 101,1,25,Fall
+4,1,2,Biomedical Engineering,3,Math 102,2,26,Fall
+4,1,2,Biomedical Engineering,3,Phys 101,5,29,Fall
+4,1,2,Biomedical Engineering,3,Phys 102,6,30,Fall
+4,2,2,Biomedical Engineering,3,Biomedical Engineering 1,20,31,Fall
+4,2,2,Biomedical Engineering,3,Biomedical Engineering 2,21,32,Fall
+4,2,2,Biomedical Engineering,3,Biomedical Engineering 3,22,33,Fall
+4,2,2,Biomedical Engineering,3,Biomedical Engineering 4,23,34,Fall
+4,2,2,Biomedical Engineering,3,Biomedical Engineering 5,24,35,Fall
+4,2,2,Biomedical Engineering,3,Biomedical Engineering 6,25,36,Fall
+5,1,3,Cyber Security Track,4,Cyber Security Track Course 1,26,38,December Intake
+5,1,3,Cyber Security Track,4,Cyber Security Track Course 2,27,39,December Intake
+5,1,3,Cyber Security Track,4,Cyber Security Track Course 3,28,40,December Intake
+5,1,3,Cyber Security Track,4,Cyber Security Track Course 4,29,41,December Intake
+5,1,3,Cyber Security Track,4,Cyber Security Track Course 5,30,42,December Intake
+5,1,3,Cyber Security Track,4,Cyber Security Track Course 6,31,43,December Intake
+6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 1,32,45,December Intake
+6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 2,33,46,December Intake
+6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 3,34,47,December Intake
+6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 4,35,48,December Intake
+6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 5,36,49,December Intake
+6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 6,37,50,December Intake
+7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 1,38,52,October Intake
+7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 2,39,53,October Intake
+7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 3,40,54,October Intake
+7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 4,41,55,October Intake
+7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 5,42,56,October Intake
+7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 6,43,57,October Intake

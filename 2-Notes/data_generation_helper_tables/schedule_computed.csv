@@ -1,0 +1,291 @@
+,classroom_id,classroom_name,schedule_institution_id,time_slot_id,time_slot_start_time,time_slot_end_time,day_of_week,institution_program_id,course_year_number,course_institution_id,program_name,program_id,course_name,course_id,program_course_id,semester_name
+0,1,1A,1,11,08:00:00.0000000,09:30:00.0000000,Sunday,1,1,1,Mechanical Engineering,1,Math 101,1,1,Fall
+1,1,1A,1,12,09:30:00.0000000,11:00:00.0000000,Sunday,1,1,1,Mechanical Engineering,1,Math 101,1,1,Fall
+2,1,1A,1,13,11:00:00.0000000,12:30:00.0000000,Sunday,1,1,1,Mechanical Engineering,1,Math 101,1,1,Fall
+3,1,1A,1,14,12:30:00.0000000,14:00:00.0000000,Sunday,1,1,1,Mechanical Engineering,1,Math 101,1,1,Fall
+4,1,1A,1,15,14:00:00.0000000,15:30:00.0000000,Sunday,1,1,1,Mechanical Engineering,1,Math 101,1,1,Fall
+5,1,1A,1,21,08:00:00.0000000,09:30:00.0000000,Monday,1,1,1,Mechanical Engineering,1,Math 102,2,2,Fall
+6,1,1A,1,22,09:30:00.0000000,11:00:00.0000000,Monday,1,1,1,Mechanical Engineering,1,Math 102,2,2,Fall
+7,1,1A,1,23,11:00:00.0000000,12:30:00.0000000,Monday,1,1,1,Mechanical Engineering,1,Math 102,2,2,Fall
+8,1,1A,1,24,12:30:00.0000000,14:00:00.0000000,Monday,1,1,1,Mechanical Engineering,1,Math 102,2,2,Fall
+9,1,1A,1,25,14:00:00.0000000,15:30:00.0000000,Monday,1,1,1,Mechanical Engineering,1,Math 102,2,2,Fall
+10,1,1A,1,31,08:00:00.0000000,09:30:00.0000000,Tuesday,1,1,1,Mechanical Engineering,1,Phys 101,5,5,Fall
+11,1,1A,1,32,09:30:00.0000000,11:00:00.0000000,Tuesday,1,1,1,Mechanical Engineering,1,Phys 101,5,5,Fall
+12,1,1A,1,33,11:00:00.0000000,12:30:00.0000000,Tuesday,1,1,1,Mechanical Engineering,1,Phys 101,5,5,Fall
+13,1,1A,1,34,12:30:00.0000000,14:00:00.0000000,Tuesday,1,1,1,Mechanical Engineering,1,Phys 101,5,5,Fall
+14,1,1A,1,35,14:00:00.0000000,15:30:00.0000000,Tuesday,1,1,1,Mechanical Engineering,1,Phys 101,5,5,Fall
+15,1,1A,1,41,08:00:00.0000000,09:30:00.0000000,Wednesday,1,1,1,Mechanical Engineering,1,Phys 102,6,6,Fall
+16,1,1A,1,42,09:30:00.0000000,11:00:00.0000000,Wednesday,1,1,1,Mechanical Engineering,1,Phys 102,6,6,Fall
+17,1,1A,1,43,11:00:00.0000000,12:30:00.0000000,Wednesday,1,1,1,Mechanical Engineering,1,Phys 102,6,6,Fall
+18,1,1A,1,44,12:30:00.0000000,14:00:00.0000000,Wednesday,1,1,1,Mechanical Engineering,1,Phys 102,6,6,Fall
+19,1,1A,1,45,14:00:00.0000000,15:30:00.0000000,Wednesday,1,1,1,Mechanical Engineering,1,Phys 102,6,6,Fall
+20,1,1A,1,51,08:00:00.0000000,09:30:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+21,1,1A,1,52,09:30:00.0000000,11:00:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+22,1,1A,1,53,11:00:00.0000000,12:30:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+23,1,1A,1,54,12:30:00.0000000,14:00:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+24,1,1A,1,55,14:00:00.0000000,15:30:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+25,2,1B,1,11,08:00:00.0000000,09:30:00.0000000,Sunday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+26,2,1B,1,12,09:30:00.0000000,11:00:00.0000000,Sunday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+27,2,1B,1,13,11:00:00.0000000,12:30:00.0000000,Sunday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+28,2,1B,1,14,12:30:00.0000000,14:00:00.0000000,Sunday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+29,2,1B,1,15,14:00:00.0000000,15:30:00.0000000,Sunday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+30,2,1B,1,21,08:00:00.0000000,09:30:00.0000000,Monday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+31,2,1B,1,22,09:30:00.0000000,11:00:00.0000000,Monday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+32,2,1B,1,23,11:00:00.0000000,12:30:00.0000000,Monday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+33,2,1B,1,24,12:30:00.0000000,14:00:00.0000000,Monday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+34,2,1B,1,25,14:00:00.0000000,15:30:00.0000000,Monday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+35,2,1B,1,31,08:00:00.0000000,09:30:00.0000000,Tuesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+36,2,1B,1,32,09:30:00.0000000,11:00:00.0000000,Tuesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+37,2,1B,1,33,11:00:00.0000000,12:30:00.0000000,Tuesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+38,2,1B,1,34,12:30:00.0000000,14:00:00.0000000,Tuesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+39,2,1B,1,35,14:00:00.0000000,15:30:00.0000000,Tuesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+40,2,1B,1,41,08:00:00.0000000,09:30:00.0000000,Wednesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+41,2,1B,1,42,09:30:00.0000000,11:00:00.0000000,Wednesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+42,2,1B,1,43,11:00:00.0000000,12:30:00.0000000,Wednesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+43,2,1B,1,44,12:30:00.0000000,14:00:00.0000000,Wednesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+44,2,1B,1,45,14:00:00.0000000,15:30:00.0000000,Wednesday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+45,2,1B,1,51,08:00:00.0000000,09:30:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+46,2,1B,1,52,09:30:00.0000000,11:00:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+47,2,1B,1,53,11:00:00.0000000,12:30:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+48,2,1B,1,54,12:30:00.0000000,14:00:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+49,2,1B,1,55,14:00:00.0000000,15:30:00.0000000,Thursday,1,2,1,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+50,3,1C,1,11,08:00:00.0000000,09:30:00.0000000,Sunday,2,1,1,Computer Science,2,Math 101,1,13,Fall
+51,3,1C,1,12,09:30:00.0000000,11:00:00.0000000,Sunday,2,1,1,Computer Science,2,Math 101,1,13,Fall
+52,3,1C,1,13,11:00:00.0000000,12:30:00.0000000,Sunday,2,1,1,Computer Science,2,Math 101,1,13,Fall
+53,3,1C,1,14,12:30:00.0000000,14:00:00.0000000,Sunday,2,1,1,Computer Science,2,Math 101,1,13,Fall
+54,3,1C,1,15,14:00:00.0000000,15:30:00.0000000,Sunday,2,1,1,Computer Science,2,Math 101,1,13,Fall
+55,3,1C,1,21,08:00:00.0000000,09:30:00.0000000,Monday,2,1,1,Computer Science,2,Math 102,2,14,Fall
+56,3,1C,1,22,09:30:00.0000000,11:00:00.0000000,Monday,2,1,1,Computer Science,2,Math 102,2,14,Fall
+57,3,1C,1,23,11:00:00.0000000,12:30:00.0000000,Monday,2,1,1,Computer Science,2,Math 102,2,14,Fall
+58,3,1C,1,24,12:30:00.0000000,14:00:00.0000000,Monday,2,1,1,Computer Science,2,Math 102,2,14,Fall
+59,3,1C,1,25,14:00:00.0000000,15:30:00.0000000,Monday,2,1,1,Computer Science,2,Math 102,2,14,Fall
+60,3,1C,1,31,08:00:00.0000000,09:30:00.0000000,Tuesday,2,1,1,Computer Science,2,Phys 101,5,17,Fall
+61,3,1C,1,32,09:30:00.0000000,11:00:00.0000000,Tuesday,2,1,1,Computer Science,2,Phys 101,5,17,Fall
+62,3,1C,1,33,11:00:00.0000000,12:30:00.0000000,Tuesday,2,1,1,Computer Science,2,Phys 101,5,17,Fall
+63,3,1C,1,34,12:30:00.0000000,14:00:00.0000000,Tuesday,2,1,1,Computer Science,2,Phys 101,5,17,Fall
+64,3,1C,1,35,14:00:00.0000000,15:30:00.0000000,Tuesday,2,1,1,Computer Science,2,Phys 101,5,17,Fall
+65,3,1C,1,41,08:00:00.0000000,09:30:00.0000000,Wednesday,2,1,1,Computer Science,2,Phys 102,6,18,Fall
+66,3,1C,1,42,09:30:00.0000000,11:00:00.0000000,Wednesday,2,1,1,Computer Science,2,Phys 102,6,18,Fall
+67,3,1C,1,43,11:00:00.0000000,12:30:00.0000000,Wednesday,2,1,1,Computer Science,2,Phys 102,6,18,Fall
+68,3,1C,1,44,12:30:00.0000000,14:00:00.0000000,Wednesday,2,1,1,Computer Science,2,Phys 102,6,18,Fall
+69,3,1C,1,45,14:00:00.0000000,15:30:00.0000000,Wednesday,2,1,1,Computer Science,2,Phys 102,6,18,Fall
+70,3,1C,1,51,08:00:00.0000000,09:30:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 1,14,19,Fall
+71,3,1C,1,52,09:30:00.0000000,11:00:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 1,14,19,Fall
+72,3,1C,1,53,11:00:00.0000000,12:30:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 1,14,19,Fall
+73,3,1C,1,54,12:30:00.0000000,14:00:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 1,14,19,Fall
+74,3,1C,1,55,14:00:00.0000000,15:30:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 1,14,19,Fall
+75,4,1D,1,11,08:00:00.0000000,09:30:00.0000000,Sunday,2,2,1,Computer Science,2,Computer Science 2,15,20,Fall
+76,4,1D,1,12,09:30:00.0000000,11:00:00.0000000,Sunday,2,2,1,Computer Science,2,Computer Science 2,15,20,Fall
+77,4,1D,1,13,11:00:00.0000000,12:30:00.0000000,Sunday,2,2,1,Computer Science,2,Computer Science 2,15,20,Fall
+78,4,1D,1,14,12:30:00.0000000,14:00:00.0000000,Sunday,2,2,1,Computer Science,2,Computer Science 2,15,20,Fall
+79,4,1D,1,15,14:00:00.0000000,15:30:00.0000000,Sunday,2,2,1,Computer Science,2,Computer Science 2,15,20,Fall
+80,4,1D,1,21,08:00:00.0000000,09:30:00.0000000,Monday,2,2,1,Computer Science,2,Computer Science 3,16,21,Fall
+81,4,1D,1,22,09:30:00.0000000,11:00:00.0000000,Monday,2,2,1,Computer Science,2,Computer Science 3,16,21,Fall
+82,4,1D,1,23,11:00:00.0000000,12:30:00.0000000,Monday,2,2,1,Computer Science,2,Computer Science 3,16,21,Fall
+83,4,1D,1,24,12:30:00.0000000,14:00:00.0000000,Monday,2,2,1,Computer Science,2,Computer Science 3,16,21,Fall
+84,4,1D,1,25,14:00:00.0000000,15:30:00.0000000,Monday,2,2,1,Computer Science,2,Computer Science 3,16,21,Fall
+85,4,1D,1,31,08:00:00.0000000,09:30:00.0000000,Tuesday,2,2,1,Computer Science,2,Computer Science 4,17,22,Fall
+86,4,1D,1,32,09:30:00.0000000,11:00:00.0000000,Tuesday,2,2,1,Computer Science,2,Computer Science 4,17,22,Fall
+87,4,1D,1,33,11:00:00.0000000,12:30:00.0000000,Tuesday,2,2,1,Computer Science,2,Computer Science 4,17,22,Fall
+88,4,1D,1,34,12:30:00.0000000,14:00:00.0000000,Tuesday,2,2,1,Computer Science,2,Computer Science 4,17,22,Fall
+89,4,1D,1,35,14:00:00.0000000,15:30:00.0000000,Tuesday,2,2,1,Computer Science,2,Computer Science 4,17,22,Fall
+90,4,1D,1,41,08:00:00.0000000,09:30:00.0000000,Wednesday,2,2,1,Computer Science,2,Computer Science 5,18,23,Fall
+91,4,1D,1,42,09:30:00.0000000,11:00:00.0000000,Wednesday,2,2,1,Computer Science,2,Computer Science 5,18,23,Fall
+92,4,1D,1,43,11:00:00.0000000,12:30:00.0000000,Wednesday,2,2,1,Computer Science,2,Computer Science 5,18,23,Fall
+93,4,1D,1,44,12:30:00.0000000,14:00:00.0000000,Wednesday,2,2,1,Computer Science,2,Computer Science 5,18,23,Fall
+94,4,1D,1,45,14:00:00.0000000,15:30:00.0000000,Wednesday,2,2,1,Computer Science,2,Computer Science 5,18,23,Fall
+95,4,1D,1,51,08:00:00.0000000,09:30:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 6,19,24,Fall
+96,4,1D,1,52,09:30:00.0000000,11:00:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 6,19,24,Fall
+97,4,1D,1,53,11:00:00.0000000,12:30:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 6,19,24,Fall
+98,4,1D,1,54,12:30:00.0000000,14:00:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 6,19,24,Fall
+99,4,1D,1,55,14:00:00.0000000,15:30:00.0000000,Thursday,2,2,1,Computer Science,2,Computer Science 6,19,24,Fall
+100,6,2A,2,11,08:00:00.0000000,09:30:00.0000000,Sunday,3,1,2,Mechanical Engineering,1,Math 101,1,1,Fall
+101,6,2A,2,12,09:30:00.0000000,11:00:00.0000000,Sunday,3,1,2,Mechanical Engineering,1,Math 101,1,1,Fall
+102,6,2A,2,13,11:00:00.0000000,12:30:00.0000000,Sunday,3,1,2,Mechanical Engineering,1,Math 101,1,1,Fall
+103,6,2A,2,14,12:30:00.0000000,14:00:00.0000000,Sunday,3,1,2,Mechanical Engineering,1,Math 101,1,1,Fall
+104,6,2A,2,15,14:00:00.0000000,15:30:00.0000000,Sunday,3,1,2,Mechanical Engineering,1,Math 101,1,1,Fall
+105,6,2A,2,21,08:00:00.0000000,09:30:00.0000000,Monday,3,1,2,Mechanical Engineering,1,Math 102,2,2,Fall
+106,6,2A,2,22,09:30:00.0000000,11:00:00.0000000,Monday,3,1,2,Mechanical Engineering,1,Math 102,2,2,Fall
+107,6,2A,2,23,11:00:00.0000000,12:30:00.0000000,Monday,3,1,2,Mechanical Engineering,1,Math 102,2,2,Fall
+108,6,2A,2,24,12:30:00.0000000,14:00:00.0000000,Monday,3,1,2,Mechanical Engineering,1,Math 102,2,2,Fall
+109,6,2A,2,25,14:00:00.0000000,15:30:00.0000000,Monday,3,1,2,Mechanical Engineering,1,Math 102,2,2,Fall
+110,6,2A,2,31,08:00:00.0000000,09:30:00.0000000,Tuesday,3,1,2,Mechanical Engineering,1,Phys 101,5,5,Fall
+111,6,2A,2,32,09:30:00.0000000,11:00:00.0000000,Tuesday,3,1,2,Mechanical Engineering,1,Phys 101,5,5,Fall
+112,6,2A,2,33,11:00:00.0000000,12:30:00.0000000,Tuesday,3,1,2,Mechanical Engineering,1,Phys 101,5,5,Fall
+113,6,2A,2,34,12:30:00.0000000,14:00:00.0000000,Tuesday,3,1,2,Mechanical Engineering,1,Phys 101,5,5,Fall
+114,6,2A,2,35,14:00:00.0000000,15:30:00.0000000,Tuesday,3,1,2,Mechanical Engineering,1,Phys 101,5,5,Fall
+115,6,2A,2,41,08:00:00.0000000,09:30:00.0000000,Wednesday,3,1,2,Mechanical Engineering,1,Phys 102,6,6,Fall
+116,6,2A,2,42,09:30:00.0000000,11:00:00.0000000,Wednesday,3,1,2,Mechanical Engineering,1,Phys 102,6,6,Fall
+117,6,2A,2,43,11:00:00.0000000,12:30:00.0000000,Wednesday,3,1,2,Mechanical Engineering,1,Phys 102,6,6,Fall
+118,6,2A,2,44,12:30:00.0000000,14:00:00.0000000,Wednesday,3,1,2,Mechanical Engineering,1,Phys 102,6,6,Fall
+119,6,2A,2,45,14:00:00.0000000,15:30:00.0000000,Wednesday,3,1,2,Mechanical Engineering,1,Phys 102,6,6,Fall
+120,6,2A,2,51,08:00:00.0000000,09:30:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+121,6,2A,2,52,09:30:00.0000000,11:00:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+122,6,2A,2,53,11:00:00.0000000,12:30:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+123,6,2A,2,54,12:30:00.0000000,14:00:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+124,6,2A,2,55,14:00:00.0000000,15:30:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 1,8,7,Fall
+125,7,2B,2,11,08:00:00.0000000,09:30:00.0000000,Sunday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+126,7,2B,2,12,09:30:00.0000000,11:00:00.0000000,Sunday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+127,7,2B,2,13,11:00:00.0000000,12:30:00.0000000,Sunday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+128,7,2B,2,14,12:30:00.0000000,14:00:00.0000000,Sunday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+129,7,2B,2,15,14:00:00.0000000,15:30:00.0000000,Sunday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 2,9,8,Fall
+130,7,2B,2,21,08:00:00.0000000,09:30:00.0000000,Monday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+131,7,2B,2,22,09:30:00.0000000,11:00:00.0000000,Monday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+132,7,2B,2,23,11:00:00.0000000,12:30:00.0000000,Monday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+133,7,2B,2,24,12:30:00.0000000,14:00:00.0000000,Monday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+134,7,2B,2,25,14:00:00.0000000,15:30:00.0000000,Monday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 3,10,9,Fall
+135,7,2B,2,31,08:00:00.0000000,09:30:00.0000000,Tuesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+136,7,2B,2,32,09:30:00.0000000,11:00:00.0000000,Tuesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+137,7,2B,2,33,11:00:00.0000000,12:30:00.0000000,Tuesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+138,7,2B,2,34,12:30:00.0000000,14:00:00.0000000,Tuesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+139,7,2B,2,35,14:00:00.0000000,15:30:00.0000000,Tuesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 4,11,10,Fall
+140,7,2B,2,41,08:00:00.0000000,09:30:00.0000000,Wednesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+141,7,2B,2,42,09:30:00.0000000,11:00:00.0000000,Wednesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+142,7,2B,2,43,11:00:00.0000000,12:30:00.0000000,Wednesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+143,7,2B,2,44,12:30:00.0000000,14:00:00.0000000,Wednesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+144,7,2B,2,45,14:00:00.0000000,15:30:00.0000000,Wednesday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 5,12,11,Fall
+145,7,2B,2,51,08:00:00.0000000,09:30:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+146,7,2B,2,52,09:30:00.0000000,11:00:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+147,7,2B,2,53,11:00:00.0000000,12:30:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+148,7,2B,2,54,12:30:00.0000000,14:00:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+149,7,2B,2,55,14:00:00.0000000,15:30:00.0000000,Thursday,3,2,2,Mechanical Engineering,1,Mechanical Engineering 6,13,12,Fall
+150,8,2C,2,11,08:00:00.0000000,09:30:00.0000000,Sunday,4,1,2,Biomedical Engineering,3,Math 101,1,25,Fall
+151,8,2C,2,12,09:30:00.0000000,11:00:00.0000000,Sunday,4,1,2,Biomedical Engineering,3,Math 101,1,25,Fall
+152,8,2C,2,13,11:00:00.0000000,12:30:00.0000000,Sunday,4,1,2,Biomedical Engineering,3,Math 101,1,25,Fall
+153,8,2C,2,14,12:30:00.0000000,14:00:00.0000000,Sunday,4,1,2,Biomedical Engineering,3,Math 101,1,25,Fall
+154,8,2C,2,15,14:00:00.0000000,15:30:00.0000000,Sunday,4,1,2,Biomedical Engineering,3,Math 101,1,25,Fall
+155,8,2C,2,21,08:00:00.0000000,09:30:00.0000000,Monday,4,1,2,Biomedical Engineering,3,Math 102,2,26,Fall
+156,8,2C,2,22,09:30:00.0000000,11:00:00.0000000,Monday,4,1,2,Biomedical Engineering,3,Math 102,2,26,Fall
+157,8,2C,2,23,11:00:00.0000000,12:30:00.0000000,Monday,4,1,2,Biomedical Engineering,3,Math 102,2,26,Fall
+158,8,2C,2,24,12:30:00.0000000,14:00:00.0000000,Monday,4,1,2,Biomedical Engineering,3,Math 102,2,26,Fall
+159,8,2C,2,25,14:00:00.0000000,15:30:00.0000000,Monday,4,1,2,Biomedical Engineering,3,Math 102,2,26,Fall
+160,8,2C,2,31,08:00:00.0000000,09:30:00.0000000,Tuesday,4,1,2,Biomedical Engineering,3,Phys 101,5,29,Fall
+161,8,2C,2,32,09:30:00.0000000,11:00:00.0000000,Tuesday,4,1,2,Biomedical Engineering,3,Phys 101,5,29,Fall
+162,8,2C,2,33,11:00:00.0000000,12:30:00.0000000,Tuesday,4,1,2,Biomedical Engineering,3,Phys 101,5,29,Fall
+163,8,2C,2,34,12:30:00.0000000,14:00:00.0000000,Tuesday,4,1,2,Biomedical Engineering,3,Phys 101,5,29,Fall
+164,8,2C,2,35,14:00:00.0000000,15:30:00.0000000,Tuesday,4,1,2,Biomedical Engineering,3,Phys 101,5,29,Fall
+165,8,2C,2,41,08:00:00.0000000,09:30:00.0000000,Wednesday,4,1,2,Biomedical Engineering,3,Phys 102,6,30,Fall
+166,8,2C,2,42,09:30:00.0000000,11:00:00.0000000,Wednesday,4,1,2,Biomedical Engineering,3,Phys 102,6,30,Fall
+167,8,2C,2,43,11:00:00.0000000,12:30:00.0000000,Wednesday,4,1,2,Biomedical Engineering,3,Phys 102,6,30,Fall
+168,8,2C,2,44,12:30:00.0000000,14:00:00.0000000,Wednesday,4,1,2,Biomedical Engineering,3,Phys 102,6,30,Fall
+169,8,2C,2,45,14:00:00.0000000,15:30:00.0000000,Wednesday,4,1,2,Biomedical Engineering,3,Phys 102,6,30,Fall
+170,8,2C,2,51,08:00:00.0000000,09:30:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 1,20,31,Fall
+171,8,2C,2,52,09:30:00.0000000,11:00:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 1,20,31,Fall
+172,8,2C,2,53,11:00:00.0000000,12:30:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 1,20,31,Fall
+173,8,2C,2,54,12:30:00.0000000,14:00:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 1,20,31,Fall
+174,8,2C,2,55,14:00:00.0000000,15:30:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 1,20,31,Fall
+175,9,2D,2,11,08:00:00.0000000,09:30:00.0000000,Sunday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 2,21,32,Fall
+176,9,2D,2,12,09:30:00.0000000,11:00:00.0000000,Sunday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 2,21,32,Fall
+177,9,2D,2,13,11:00:00.0000000,12:30:00.0000000,Sunday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 2,21,32,Fall
+178,9,2D,2,14,12:30:00.0000000,14:00:00.0000000,Sunday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 2,21,32,Fall
+179,9,2D,2,15,14:00:00.0000000,15:30:00.0000000,Sunday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 2,21,32,Fall
+180,9,2D,2,21,08:00:00.0000000,09:30:00.0000000,Monday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 3,22,33,Fall
+181,9,2D,2,22,09:30:00.0000000,11:00:00.0000000,Monday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 3,22,33,Fall
+182,9,2D,2,23,11:00:00.0000000,12:30:00.0000000,Monday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 3,22,33,Fall
+183,9,2D,2,24,12:30:00.0000000,14:00:00.0000000,Monday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 3,22,33,Fall
+184,9,2D,2,25,14:00:00.0000000,15:30:00.0000000,Monday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 3,22,33,Fall
+185,9,2D,2,31,08:00:00.0000000,09:30:00.0000000,Tuesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 4,23,34,Fall
+186,9,2D,2,32,09:30:00.0000000,11:00:00.0000000,Tuesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 4,23,34,Fall
+187,9,2D,2,33,11:00:00.0000000,12:30:00.0000000,Tuesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 4,23,34,Fall
+188,9,2D,2,34,12:30:00.0000000,14:00:00.0000000,Tuesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 4,23,34,Fall
+189,9,2D,2,35,14:00:00.0000000,15:30:00.0000000,Tuesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 4,23,34,Fall
+190,9,2D,2,41,08:00:00.0000000,09:30:00.0000000,Wednesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 5,24,35,Fall
+191,9,2D,2,42,09:30:00.0000000,11:00:00.0000000,Wednesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 5,24,35,Fall
+192,9,2D,2,43,11:00:00.0000000,12:30:00.0000000,Wednesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 5,24,35,Fall
+193,9,2D,2,44,12:30:00.0000000,14:00:00.0000000,Wednesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 5,24,35,Fall
+194,9,2D,2,45,14:00:00.0000000,15:30:00.0000000,Wednesday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 5,24,35,Fall
+195,9,2D,2,51,08:00:00.0000000,09:30:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 6,25,36,Fall
+196,9,2D,2,52,09:30:00.0000000,11:00:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 6,25,36,Fall
+197,9,2D,2,53,11:00:00.0000000,12:30:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 6,25,36,Fall
+198,9,2D,2,54,12:30:00.0000000,14:00:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 6,25,36,Fall
+199,9,2D,2,55,14:00:00.0000000,15:30:00.0000000,Thursday,4,2,2,Biomedical Engineering,3,Biomedical Engineering 6,25,36,Fall
+200,11,3A,3,11,08:00:00.0000000,09:30:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 1,26,38,December Intake
+201,11,3A,3,12,09:30:00.0000000,11:00:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 1,26,38,December Intake
+202,11,3A,3,13,11:00:00.0000000,12:30:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 1,26,38,December Intake
+203,11,3A,3,14,12:30:00.0000000,14:00:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 1,26,38,December Intake
+204,11,3A,3,15,14:00:00.0000000,15:30:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 1,26,38,December Intake
+205,11,3A,3,21,08:00:00.0000000,09:30:00.0000000,Monday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 2,27,39,December Intake
+206,11,3A,3,22,09:30:00.0000000,11:00:00.0000000,Monday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 2,27,39,December Intake
+207,11,3A,3,23,11:00:00.0000000,12:30:00.0000000,Monday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 2,27,39,December Intake
+208,11,3A,3,24,12:30:00.0000000,14:00:00.0000000,Monday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 2,27,39,December Intake
+209,11,3A,3,25,14:00:00.0000000,15:30:00.0000000,Monday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 2,27,39,December Intake
+210,11,3A,3,31,08:00:00.0000000,09:30:00.0000000,Tuesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 3,28,40,December Intake
+211,11,3A,3,32,09:30:00.0000000,11:00:00.0000000,Tuesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 3,28,40,December Intake
+212,11,3A,3,33,11:00:00.0000000,12:30:00.0000000,Tuesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 3,28,40,December Intake
+213,11,3A,3,34,12:30:00.0000000,14:00:00.0000000,Tuesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 3,28,40,December Intake
+214,11,3A,3,35,14:00:00.0000000,15:30:00.0000000,Tuesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 3,28,40,December Intake
+215,11,3A,3,41,08:00:00.0000000,09:30:00.0000000,Wednesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 4,29,41,December Intake
+216,11,3A,3,42,09:30:00.0000000,11:00:00.0000000,Wednesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 4,29,41,December Intake
+217,11,3A,3,43,11:00:00.0000000,12:30:00.0000000,Wednesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 4,29,41,December Intake
+218,11,3A,3,44,12:30:00.0000000,14:00:00.0000000,Wednesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 4,29,41,December Intake
+219,11,3A,3,45,14:00:00.0000000,15:30:00.0000000,Wednesday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 4,29,41,December Intake
+220,11,3A,3,51,08:00:00.0000000,09:30:00.0000000,Thursday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 5,30,42,December Intake
+221,11,3A,3,52,09:30:00.0000000,11:00:00.0000000,Thursday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 5,30,42,December Intake
+222,11,3A,3,53,11:00:00.0000000,12:30:00.0000000,Thursday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 5,30,42,December Intake
+223,11,3A,3,54,12:30:00.0000000,14:00:00.0000000,Thursday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 5,30,42,December Intake
+224,11,3A,3,55,14:00:00.0000000,15:30:00.0000000,Thursday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 5,30,42,December Intake
+225,12,3B,3,11,08:00:00.0000000,09:30:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 6,31,43,December Intake
+226,12,3B,3,12,09:30:00.0000000,11:00:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 6,31,43,December Intake
+227,12,3B,3,13,11:00:00.0000000,12:30:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 6,31,43,December Intake
+228,12,3B,3,14,12:30:00.0000000,14:00:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 6,31,43,December Intake
+229,12,3B,3,15,14:00:00.0000000,15:30:00.0000000,Sunday,5,1,3,Cyber Security Track,4,Cyber Security Track Course 6,31,43,December Intake
+230,12,3B,3,21,08:00:00.0000000,09:30:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 1,32,45,December Intake
+231,12,3B,3,22,09:30:00.0000000,11:00:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 1,32,45,December Intake
+232,12,3B,3,23,11:00:00.0000000,12:30:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 1,32,45,December Intake
+233,12,3B,3,24,12:30:00.0000000,14:00:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 1,32,45,December Intake
+234,12,3B,3,25,14:00:00.0000000,15:30:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 1,32,45,December Intake
+235,12,3B,3,31,08:00:00.0000000,09:30:00.0000000,Tuesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 2,33,46,December Intake
+236,12,3B,3,32,09:30:00.0000000,11:00:00.0000000,Tuesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 2,33,46,December Intake
+237,12,3B,3,33,11:00:00.0000000,12:30:00.0000000,Tuesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 2,33,46,December Intake
+238,12,3B,3,34,12:30:00.0000000,14:00:00.0000000,Tuesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 2,33,46,December Intake
+239,12,3B,3,35,14:00:00.0000000,15:30:00.0000000,Tuesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 2,33,46,December Intake
+240,12,3B,3,41,08:00:00.0000000,09:30:00.0000000,Wednesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 3,34,47,December Intake
+241,12,3B,3,42,09:30:00.0000000,11:00:00.0000000,Wednesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 3,34,47,December Intake
+242,12,3B,3,43,11:00:00.0000000,12:30:00.0000000,Wednesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 3,34,47,December Intake
+243,12,3B,3,44,12:30:00.0000000,14:00:00.0000000,Wednesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 3,34,47,December Intake
+244,12,3B,3,45,14:00:00.0000000,15:30:00.0000000,Wednesday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 3,34,47,December Intake
+245,12,3B,3,51,08:00:00.0000000,09:30:00.0000000,Thursday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 4,35,48,December Intake
+246,12,3B,3,52,09:30:00.0000000,11:00:00.0000000,Thursday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 4,35,48,December Intake
+247,12,3B,3,53,11:00:00.0000000,12:30:00.0000000,Thursday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 4,35,48,December Intake
+248,12,3B,3,54,12:30:00.0000000,14:00:00.0000000,Thursday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 4,35,48,December Intake
+249,12,3B,3,55,14:00:00.0000000,15:30:00.0000000,Thursday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 4,35,48,December Intake
+250,13,3C,3,11,08:00:00.0000000,09:30:00.0000000,Sunday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 5,36,49,December Intake
+251,13,3C,3,12,09:30:00.0000000,11:00:00.0000000,Sunday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 5,36,49,December Intake
+252,13,3C,3,13,11:00:00.0000000,12:30:00.0000000,Sunday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 5,36,49,December Intake
+253,13,3C,3,14,12:30:00.0000000,14:00:00.0000000,Sunday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 5,36,49,December Intake
+254,13,3C,3,15,14:00:00.0000000,15:30:00.0000000,Sunday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 5,36,49,December Intake
+255,13,3C,3,21,08:00:00.0000000,09:30:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 6,37,50,December Intake
+256,13,3C,3,22,09:30:00.0000000,11:00:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 6,37,50,December Intake
+257,13,3C,3,23,11:00:00.0000000,12:30:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 6,37,50,December Intake
+258,13,3C,3,24,12:30:00.0000000,14:00:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 6,37,50,December Intake
+259,13,3C,3,25,14:00:00.0000000,15:30:00.0000000,Monday,6,1,3,Embedded Systems Track,5,Embedded Systems Track Course 6,37,50,December Intake
+260,13,3C,3,31,08:00:00.0000000,09:30:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 1,38,52,October Intake
+261,13,3C,3,32,09:30:00.0000000,11:00:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 1,38,52,October Intake
+262,13,3C,3,33,11:00:00.0000000,12:30:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 1,38,52,October Intake
+263,13,3C,3,34,12:30:00.0000000,14:00:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 1,38,52,October Intake
+264,13,3C,3,35,14:00:00.0000000,15:30:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 1,38,52,October Intake
+265,13,3C,3,41,08:00:00.0000000,09:30:00.0000000,Wednesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 2,39,53,October Intake
+266,13,3C,3,42,09:30:00.0000000,11:00:00.0000000,Wednesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 2,39,53,October Intake
+267,13,3C,3,43,11:00:00.0000000,12:30:00.0000000,Wednesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 2,39,53,October Intake
+268,13,3C,3,44,12:30:00.0000000,14:00:00.0000000,Wednesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 2,39,53,October Intake
+269,13,3C,3,45,14:00:00.0000000,15:30:00.0000000,Wednesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 2,39,53,October Intake
+270,13,3C,3,51,08:00:00.0000000,09:30:00.0000000,Thursday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 3,40,54,October Intake
+271,13,3C,3,52,09:30:00.0000000,11:00:00.0000000,Thursday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 3,40,54,October Intake
+272,13,3C,3,53,11:00:00.0000000,12:30:00.0000000,Thursday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 3,40,54,October Intake
+273,13,3C,3,54,12:30:00.0000000,14:00:00.0000000,Thursday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 3,40,54,October Intake
+274,13,3C,3,55,14:00:00.0000000,15:30:00.0000000,Thursday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 3,40,54,October Intake
+275,14,3D,3,11,08:00:00.0000000,09:30:00.0000000,Sunday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 4,41,55,October Intake
+276,14,3D,3,12,09:30:00.0000000,11:00:00.0000000,Sunday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 4,41,55,October Intake
+277,14,3D,3,13,11:00:00.0000000,12:30:00.0000000,Sunday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 4,41,55,October Intake
+278,14,3D,3,14,12:30:00.0000000,14:00:00.0000000,Sunday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 4,41,55,October Intake
+279,14,3D,3,15,14:00:00.0000000,15:30:00.0000000,Sunday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 4,41,55,October Intake
+280,14,3D,3,21,08:00:00.0000000,09:30:00.0000000,Monday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 5,42,56,October Intake
+281,14,3D,3,22,09:30:00.0000000,11:00:00.0000000,Monday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 5,42,56,October Intake
+282,14,3D,3,23,11:00:00.0000000,12:30:00.0000000,Monday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 5,42,56,October Intake
+283,14,3D,3,24,12:30:00.0000000,14:00:00.0000000,Monday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 5,42,56,October Intake
+284,14,3D,3,25,14:00:00.0000000,15:30:00.0000000,Monday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 5,42,56,October Intake
+285,14,3D,3,31,08:00:00.0000000,09:30:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 6,43,57,October Intake
+286,14,3D,3,32,09:30:00.0000000,11:00:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 6,43,57,October Intake
+287,14,3D,3,33,11:00:00.0000000,12:30:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 6,43,57,October Intake
+288,14,3D,3,34,12:30:00.0000000,14:00:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 6,43,57,October Intake
+289,14,3D,3,35,14:00:00.0000000,15:30:00.0000000,Tuesday,7,1,3,Artificial Intelligence Track,6,Artificial Intelligence Track Course 6,43,57,October Intake

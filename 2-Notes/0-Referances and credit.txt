@@ -1,0 +1,5 @@
+Learning Managment system article by Gustavo du Mortier
+https://vertabelo.com/blog/database-design-management-system/
+
+ITI graduation Project by Mohamed Ramadan
+https://github.com/MohamedRamadan7455/Examination-System/blob/main/Stored%20Procedures
