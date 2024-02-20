@@ -108,9 +108,16 @@ Automated reports were generated using database views and dashboards created wit
 
 - **Database Views:** Three views were created to provide a top view of the learning process.
 - **Dashboards:** Student Demographics, Schedule, Student Assessments, and Exams.
+
 ![](4-Report%20Documents/media/schedule.png)
 
 > Note the Dashboard views are available in the Notes' folder reporting queries notebook
+
+## Future Improvements
+- **Designing a Data Warehouse:** This improvement would enable comprehensive historical analysis of programs, courses, student performance, and instructor effectiveness.
+- **Migrating to a Cloud Platform:** Moving the database and warehouse to a cloud platform offers better availability, scalability, and easier maintenance.
+- **Generalizing the Application for Any Learning Institution or Platform:**  Making the application adaptable for any learning institution or platform would increase its market potential and utility. Additionally the vast amount of data available may provide key insights to improve the way we educate future generations.
+- **Migrating to a Distributed No-SQL Database:** Transitioning to a distributed NoSQL database could better handle big data scenarios, providing scalability and flexibility.
 
 ## Conclusion
 This documentation provides a comprehensive overview of an operational database for a Learning Management System (LMS), including its requirement analysis (functionalities), database mapping, mock data generation, mock data migration, and finally operational and analytics reporting. By aligning system functionalities with user roles and incorporating dynamic reporting tools, the LMS streamlines educational activities and enhance learning outcomes.
