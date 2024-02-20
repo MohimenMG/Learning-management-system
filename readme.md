@@ -109,7 +109,11 @@ Automated reports were generated using database views and dashboards created wit
 - **Database Views:** Three views were created to provide a top view of the learning process.
 - **Dashboards:** Student Demographics, Schedule, Student Assessments, and Exams.
 
+### Dashboards
 ![](4-Report%20Documents/media/schedule.png)
+![](4-Report%20Documents/media/Assessments.png)
+![](4-Report%20Documents/media/exams.png)
+![](4-Report%20Documents/media/demographics.png)
 
 > Note the Dashboard views are available in the Notes' folder reporting queries notebook
 
