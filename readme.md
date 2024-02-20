@@ -1,59 +1,98 @@
-# Learning Management System (LMS) Documentation
+# Learning Management System (LMS)
 
 ## Introduction
-The Learning Management System (LMS) is an essential component for educational institutions to effectively manage their resources, courses, instructors, and students. This documentation outlines the database schema designed to support the functionalities required for an efficient LMS.
+A Learning Management System (LMS) is an essential component for educational institutions to effectively manage their resources, courses, instructors, and students. This documentation outlines a database schema designed to support the functionalities required for an efficient LMS.
 
-## Requirement Analysis Mapping
-### Requirement Analysis
-The LMS was designed to enable students, instructors, and courses management. The system functionalities are mapped to specific roles within educational institutions.
+This documentation outlines the functionalities and architecture of an operational database devised to efficiently manage course enrollments and results within educational institutions. The database draws inspiration from my university's learning management system, where staff could create semester schedules, students self-enroll in courses, and instructors input final course scores.
 
-#### Institution Managers:
-- Create and manage institutions, classes, and departments.
-- Manage programs, courses, and topics.
-- Assign courses to programs and instructors to course classes.
+#### Objectives:
+- **Enhanced Visibility:** The database seeks to improve Visibility by providing a comprehensive overview while allowing its users to drill down to the most atomic details of data.
+- **Detailed Course Results:** It aims to offer in-depth course result details, moving beyond just displaying final scores to encompassing a broader spectrum of student performance metrics.
+- **Automation Integration:** By automating various processes, particularly exams and assessments, the database aims to streamline operations and enhance overall efficiency.
+- **Analytics:** provide all the data required to further build analytical solutions that would provide decision makers the necessary tools to improve the learning experience.
 
-#### Senior Instructors:
-- Create programs, courses, and topics.
-- Create exams and assessments for each course.
-- Define prerequisites and assign semesters to courses.
+### Functionalities Mapping
 
-#### Instructors' Managers:
-- Register instructors and assign them to institutions, departments, and supervisors.
-- Manage instructor information and credentials.
+1. **Institution Management:**
+   - Addition of institutions like Alexandria University and MIT to facilitate management across multiple institutions simultaneously.
 
-#### Students Managers:
-- Register students and assign them to programs and institutions.
-- Manage student enrollment and track enrollment submissions.
+2. **Classroom and Department Assignment:**
+   - Assignment of classrooms (lecture halls, labs) to institutions.
+   - Assignment of departments (e.g., Mechanical Engineering, Nuclear Physics) to institutions.
 
-#### Instructors:
-- View personal information, assigned courses, and students.
-- Manage student course assessments, results, and exam submissions.
+3. **Teacher Management:**
+   - Hiring of teachers within institutions and assignment to specific departments.
 
-#### Students:
-- View personal information, course assignments, and results.
-- View course assessments scores and exam submissions.
-- Subscribe to available courses or classes and submit exams.
+4. **Program Administration:**
+   - Assignment of programs (e.g., Mechanical Engineering, Computer Science) to one or more institutions.
+   - Each program can be associated with specific courses.
+
+5. **Course Management:**
+   - Assignment of courses to programs.
+   - Each course contains topics, exams, and their respective questions and answers.
+
+6. **Semester Management:**
+   - Assignment of available semesters (e.g., Fall, Spring, Summer) to each course, with some courses available in multiple semesters.
+
+7. **Schedule Creation:**
+   - Creation of schedules by assigning classrooms, time slots, programs, courses, and teachers.
+   - Definition of start and end times for lectures or labs in schedule tables.
+
+8. **Student Enrollment:**
+   - Students can enroll in institutions such as Alexandria University or MIT.
+   - Enrollment in classes is subject to availability, absence of time conflicts, fulfillment of prerequisites, and availability of seats.
+
+9. **Examination System:**
+   - Instantaneous grading and review of multiple-choice exams.
+   - Detailed feedback provided to students highlighting areas of weakness and referencing relevant study materials for improvement.
+
+### Roles Mapping
+
+1. **Institution Managers:**
+    - Create and manage institutions, classes, and departments.
+    - Manage programs, courses, and topics.
+    - Assign courses to programs and instructors to course classes.
+
+2. **Senior Instructors:**
+    - Create programs, courses, and topics.
+    - Create exams and assessments for each course.
+    - Define prerequisites and assign semesters to courses.
+
+3. **Instructors' Managers:**
+    - Register instructors and assign them to institutions, departments, and supervisors.
+    - Manage instructor information and credentials.
+
+4. **Students Managers:**
+    - Register students and assign them to programs and institutions.
+    - Manage student enrollment and track enrollment submissions.
+
+5. **Instructors:**
+    - View personal information, assigned courses, and students.
+    - Manage student course assessments, results, and exam submissions.
+
+6. **Students:**
+    - View personal information, course assignments, and results.
+    - View course assessments scores and exam submissions.
+    - Subscribe to available courses or classes and submit exams.
 
 ### Database Mapping
-The database schema is organized into three main schemas: Institutions, Programs, and Students, each encapsulating pertinent entities and relationships.
-
 ![](4-Report%20Documents/media/StudentMangmentERD2_drawio.png)
 
-- **Institutions Schema:** Manages the infrastructure of educational institutions.
+- **Institutions Schema:** Manages the infrastructure, instructors, schedule of educational institutions.
 - **Programs Schema:** Focuses on academic programs, courses, assessments, and their interconnections.
 - **Students Schema:** Facilitates student enrollment, assessment scores, course results, and exam submissions.
 
-> Note: the notes folder requiem analysis Mapping notebooks has in depth detailed analysis and mapping and the sql script folder CRUD PROCS.sql and tables3.sql has all the DDL for the database and its CRUD procedures for each table.
+> Note: the notes folder requiem analysis Mapping notebooks has in depth detailed analysis and mapping and the sql script folder `CRUD-PROCS.sql` and tables3.sql has all the DDL for the database and its Create, Read, Update, Delete procedures for each table.
 
 ![](4-Report%20Documents/media/ERD_SSMS.png)
 
 ## Mock Data Generation
 ### Data Generation Strategy
-Various data generation tools and techniques were employed to populate the core tables with realistic data compliant with the business logic of the LMS.
+Various data generation tools and techniques were employed to populate the core tables with realistic data compliant with the operational logic of the LMS.
 
 - **Data Generation Tools:** Mockaroo, SQL Queries, Cursors, and Python Scripting.
 - **Data Generation Process:** Core Table Population and Generating Data Compliant with Business Logic.
-> Note the queries and scripts used to generate the data are available in the Notes' folder data generation
+> Note the queries and scripts used to generate the data are available in the Notes' folder `DataGeneration.ipynb`
 
 ## Importing Mock Data
 SQL Server Integration Services (SSIS) was used to import the generated data while monitoring it for any discrepancies to the database.
@@ -71,6 +110,7 @@ Automated reports were generated using database views and dashboards created wit
 - **Dashboards:** Student Demographics, Schedule, Student Assessments, and Exams.
 ![](4-Report%20Documents/media/schedule.png)
 
-> Note the Dashboard views are available in the Notes' folder reporting queries notebook 
+> Note the Dashboard views are available in the Notes' folder reporting queries notebook
+
 ## Conclusion
-This documentation provides a comprehensive overview of the LMS, including requirement analysis, database mapping, mock data generation, importing mock data, and reporting. By aligning system functionalities with user roles and incorporating dynamic reporting tools, the LMS aims to streamline educational activities and enhance learning outcomes.
+This documentation provides a comprehensive overview of an operational database for a Learning Management System (LMS), including its requirement analysis (functionalities), database mapping, mock data generation, mock data migration, and finally operational and analytics reporting. By aligning system functionalities with user roles and incorporating dynamic reporting tools, the LMS streamlines educational activities and enhance learning outcomes.
